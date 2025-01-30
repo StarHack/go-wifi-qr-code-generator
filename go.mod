@@ -1,4 +1,4 @@
-module wifipass
+module github.com/StarHack/go-wifi-qr-code-generator
 
 go 1.23
 
