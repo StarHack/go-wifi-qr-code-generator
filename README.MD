@@ -8,5 +8,6 @@ A user types:
 - WiFi password
 - Type (one of: `WPA`, `WEP`, `nopass`)
 
-The program afterwards generates a file called `wifi-qr.png`
+The program afterwards generates a file called `wifi-qr.png` (and `wifi-qr-branded.png` if `logo.png` exists).
 
+![Image](https://github.com/user-attachments/assets/ca634509-e3d3-40dd-a205-64ed2deafd82)
