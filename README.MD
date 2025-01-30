@@ -2,9 +2,9 @@
 
 ![Image](https://github.com/user-attachments/assets/ca634509-e3d3-40dd-a205-64ed2deafd82)
 
-This projects generates QR codes for provided WiFi credentials. Users may then use their camera app to connect to the network in an easy way. The project may be used both as a library and as a standalone program.
+This projects generates QR codes for provided WiFi credentials. Users may then use their camera app to connect to the network in an easy manner. The project may be used both as a library and as a standalone program.
 
-QR codes include error correction to allow partial recovery of lost or damaged code areas. This is particularly useful if a QR code gets dirty, scratched, or has a logo overlay. We overlay a logo with 20% of the QR code size and error correction adds redundancy for up to 30%, thus this works.
+QR codes include error correction to allow partial recovery of lost or damaged code areas. This is particularly useful if a QR code gets dirty, scratched, or has a logo overlay. We overlay a logo with 20% of the QR code size and error correction (in High mode) adds redundancy for up to 30%, thus this works.
 
 ## Library usage
 
